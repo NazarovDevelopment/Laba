@@ -20,4 +20,5 @@ print(freqdata)
 plt2.plot(startdata[:, 0], startdata[:,1])
 plt2.show()
 plt.plot(freqdata, fftdata)
+plt
 plt.show()
